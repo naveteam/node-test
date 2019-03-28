@@ -10,18 +10,21 @@
 
 #### Desafio
 
-Desenvolver a API de um produto para organização de campeonatos de tênis de mesa.
+Desenvolver a API de um produto similar ao twitter. O objetivo é que usuários possam se cadastrar, e após cadastro publicar postagens. Essas postagens podem ser comentadas tanto pelo proprio usuário, como tambem por outros usários logados. Por fim, é preciso que todas essas postagens, de todos usuários, sejam exibidas em uma timeline ordenadas da mais nova para a mais antiga. 
 
 #### Funcionalidades
 
-1. Gerenciamento de usuários
-2. Login
-3. Criação de campeonatos
-4. Adicionar usuários nos campeonatos
-5. Gerar automaticamente as partidas do campeonato (Utilizar modelo todos contra todos)
-6. Um usuário pode listar todas as suas partidas
-7. Um usuário pode listar todos os campeonatos que está participando
-8. Para uma partida ser considerada concluida os dois usuários envolvidos precisam informar o resultado e ele precisa ser igual
+1. O usuário pode criar, excluir, editar e visualizar sua conta. 
+2. O usuário pode criar, excluir, editar e visualizar suas publicações.
+3. O usuário pode criar, excluir, editar e visualizar comentários em suas publicações.
+3. O usuário pode criar, excluir, editar e visualizar comentários em publicações de outros usuários.
+3. O usuário pode visualizar a listagem de todas as publicações de todos usuários, ordenadas por data. 
+
+### Restrições
+
+1. O usuário NÃO PODE excluir e editar a conta de outros usuários.
+2. O usuário NÃ0 PODE excluir e editar as publicações de outros usuários.
+3. O usuário NÃ0 PODE excluir e editar as comentários de outros usuários.
 
 #### Observações
 
