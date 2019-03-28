@@ -5,8 +5,11 @@
 
 - Utilizar banco de dados relacional
 - Utilizar ultima versão LTS do Node.js
+
+#### Diferenciais
+
 - Documentação dos endpoints da API
-- Utilizar testes (No mínimo teste de integração)
+- Utilizar testes
 
 #### Desafio
 
@@ -17,7 +20,7 @@ Desenvolver a API de um produto similar ao twitter. O objetivo é que usuários 
 1. O usuário pode criar, excluir, editar e visualizar sua conta. 
 2. O usuário pode criar, excluir, editar e visualizar suas publicações.
 3. O usuário pode criar, excluir, editar e visualizar comentários em suas publicações.
-3. O usuário pode criar, excluir, editar e visualizar comentários em publicações de outros usuários.
+3. O usuário pode criar, excluir, editar e visualizar seus comentários em publicações de outros usuários.
 3. O usuário pode visualizar a listagem de todas as publicações de todos usuários, ordenadas por data. 
 
 ### Restrições
@@ -32,5 +35,5 @@ Sinta-se livre para criar os campos de cada entidade da forma que considerar ade
 
 #### Entrega
 
-A entrega deve ser feita através de um repositório Git na plataforma de sua preferência.
-Enviar convite de acesso para os emails: matheus@nave.rs e joaopedro@nave.rs
+A entrega deve ser feita através de um repositório público no Git na plataforma de sua preferência.
+Enviar email para vagas@nave.rs com o link para o repositório. 
