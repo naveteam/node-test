@@ -13,7 +13,7 @@
 
 #### Desafio
 
-Desenvolver a API de um produto similar ao twitter. O objetivo é que usuários possam se cadastrar, e após cadastro publicar postagens. Essas postagens podem ser comentadas tanto pelo proprio usuário, como tambem por outros usários logados. Por fim, é preciso que todas essas postagens, de todos usuários, sejam exibidas em uma timeline ordenadas da mais nova para a mais antiga. 
+Desenvolver a API de um produto similar ao twitter. O objetivo é que usuários possam se cadastrar, e após cadastro publicar postagens. Essas postagens podem ser comentadas tanto pelo proprio usuário, como tambem por outros usuários logados. Por fim, é preciso que todas essas postagens, de todos usuários, sejam exibidas em uma timeline ordenadas da mais nova para a mais antiga. 
 
 #### Funcionalidades
 
